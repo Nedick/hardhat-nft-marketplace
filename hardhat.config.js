@@ -45,6 +45,7 @@ module.exports = {
             // },
             saveDeployments: true,
             chainId: 42,
+            blockConfirmations: 6,
         },
         rinkeby: {
             url: RINKEBY_RPC_URL,
@@ -54,6 +55,7 @@ module.exports = {
             //   },
             saveDeployments: true,
             chainId: 4,
+            blockConfirmations: 6,
         },
     },
     etherscan: {
