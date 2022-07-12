@@ -20,8 +20,10 @@ const networkConfig = {
 }
 
 const developmentChains = ["hardhat", "localhost"]
+const frontEndContractsFile = "../nextjs-moralis-nft-marketplace/constants/networkMapping.json"
 
 module.exports = {
     networkConfig,
     developmentChains,
+    frontEndContractsFile,
 }
