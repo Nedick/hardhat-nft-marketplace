@@ -20,10 +20,13 @@ const networkConfig = {
 }
 
 const developmentChains = ["hardhat", "localhost"]
-const frontEndContractsFile = "../nextjs-moralis-nft-marketplace/constants/networkMapping.json"
+const frontEndContractsFileMoralis =
+    "../nextjs-moralis-nft-marketplace/constants/networkMapping.json"
+const frontEndAbiLocationMoralis = "../nextjs-moralis-nft-marketplace/constants/"
 
 module.exports = {
     networkConfig,
     developmentChains,
-    frontEndContractsFile,
+    frontEndContractsFileMoralis,
+    frontEndAbiLocationMoralis,
 }
