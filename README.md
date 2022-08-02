@@ -1,3 +1,7 @@
+### Rinkeby test network contract addresses:
+- NftMarketplace - 0x8e493663B678fd5eea3b36A2D99e8fAEB78FFac9
+- BasicNft - 0x67A1262E721BcbF2faaee0Be3553300176cd19B5
+
 # Getting Started
 
 ## Requirements
